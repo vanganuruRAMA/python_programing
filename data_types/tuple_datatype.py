@@ -1,0 +1,11 @@
+data=(1,2,3,3,3,4,4,3,3)
+data2=1,2,3,4
+data3=("a","b")
+print(type(data))
+print(type(data2))
+print(type(data3))
+print(dir(data))
+print(data.count(4))
+print(data.index(4))
+print(data3.count("b"))
+print(data3.index("b"))

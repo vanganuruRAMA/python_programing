@@ -1,0 +1,130 @@
+Basics:
+How to install python application
+Variable Declaration
+
+Operators:
+Arthamatic Operators
+Comparision Operators
+Logical Operators
+Assignment Operators
+Bitwise Operators
+Conditional Operators #(pending)
+
+Data Types:
+#mutable datatypes     , we can modify and we can change
+list
+set       
+dictionary(dict)   #in cmt
+
+#immutable datatypes    , we can't modify ,we can't change
+number
+string
+tuple
+
+loops:
+for
+while
+nested loop
+
+conditional statements:
+if 
+else
+elif
+control statements:
+pass 
+continue
+break
+
+#password validation:
+#if condition
+#datatype methods
+
+Functions:
+#function is block of code which only runs when it is called
+#reuse and muliple times use in password 
+required arguments
+keyword arguments
+default arguments
+
+variable length argument:
+-->non keyword arguments(*)
+-->keyword argument(**)
+
+lambda function:
+map
+filter
+reduce
+single line concept:
+genarator
+iterator
+zip
+list and dict comprehension:
+list comprehension
+dict comprehension
+file handling:
+open methods
+with open methods
+read
+read+
+write
+write+
+append
+append+
+
+modules:
+re
+os
+sys
+time
+datatime
+calendar
+pymysql
+nupy
+pandas
+matplotilb
+regular expresion:
+search
+findall
+match
+sub
+ modifiers:
+
+---->\d  any digit match
+---->\w  any charectors
+---->\W  any string does match
+--->\s  space 
+--->\t  tab
+---->\D  matches non digits
+
+Character	Description	:
+
+---- >[] 	A set of characters	
+----->\	Signals a special sequence (can also be used to escape special characters)	
+----->.	Any character       #(except newline character)	
+----->^	Starts with	       #(matches beginning of line)	
+---->$	 Ends with          #(matches end of line)		
+---->*	Zero or more occurrences	
+--->+	One or more occurrences	
+---->?	Zero or one occurrences	
+--->{}	Exactly the specified number of occurrences	
+--->|	Either or		
+---->()	Capture and group	 
+
+-->flags
+re.M
+re.I
+
+oops concept:
+class and object
+inhirtance
+(a)single
+(b)multiple
+(c)multiple level
+polymorphism
+
+
+
+
+
+
+
